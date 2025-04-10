@@ -1,0 +1,43 @@
+[
+    {
+        "id": "1",
+        "nome": "Dr. João Silva",
+        "especialidade": "Cardiologia",
+        "disponibilidades": [
+            {
+                "inicio": "2024-03-11T08:00:00",
+                "fim": "2024-03-11T12:00:00",
+                "disponivel": true
+            },
+            {
+                "inicio": "2024-03-11T14:00:00",
+                "fim": "2024-03-11T18:00:00",
+                "disponivel": true
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "nome": "Dra. Maria Santos",
+        "especialidade": "Pediatria",
+        "disponibilidades": [
+            {
+                "inicio": "2024-03-11T09:00:00",
+                "fim": "2024-03-11T15:00:00",
+                "disponivel": true
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "nome": "Dr. Pedro Oliveira",
+        "especialidade": "Cardiologia",
+        "disponibilidades": [
+            {
+                "inicio": "2024-03-11T10:00:00",
+                "fim": "2024-03-11T16:00:00",
+                "disponivel": true
+            }
+        ]
+    }
+] 
