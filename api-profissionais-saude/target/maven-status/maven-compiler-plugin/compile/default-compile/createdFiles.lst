@@ -1,4 +1,5 @@
 com\healthcare\service\ProfissionalService$1.class
+com\healthcare\config\OpenApiConfig.class
 com\healthcare\controller\ProfissionalController.class
 com\healthcare\service\ProfissionalService.class
 com\healthcare\Application.class
